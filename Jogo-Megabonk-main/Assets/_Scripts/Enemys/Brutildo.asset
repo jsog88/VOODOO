@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 10315df30bbb6694993acb204f8dee69, type: 3}
+  m_Name: Brutildo
+  m_EditorClassIdentifier: Assembly-CSharp::EnemyData
+  enemyName: Brutus
+  prefab: {fileID: 8965420496985616877, guid: ba78031dc20b7364f925b7038a62c42f, type: 3}
+  maxHp: 150
+  moveSpeed: 2
+  contactDamage: 22
+  knockbackResistance: 3.5
+  xpDropAmount: 35
+  isFlying: 0
+  spawnHeightOffset: 4

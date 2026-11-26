@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 10315df30bbb6694993acb204f8dee69, type: 3}
+  m_Name: Bat
+  m_EditorClassIdentifier: Assembly-CSharp::EnemyData
+  enemyName: Bat
+  prefab: {fileID: 2143379623851402737, guid: bcdfb97a34b49a84fad83d093b37ca1c, type: 3}
+  maxHp: 55
+  moveSpeed: 6.5
+  contactDamage: 14
+  knockbackResistance: 1
+  xpDropAmount: 25
+  isFlying: 1
+  spawnHeightOffset: 4.5

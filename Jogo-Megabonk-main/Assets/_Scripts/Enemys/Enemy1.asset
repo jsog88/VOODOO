@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 10315df30bbb6694993acb204f8dee69, type: 3}
+  m_Name: Enemy1
+  m_EditorClassIdentifier: Assembly-CSharp::EnemyData
+  enemyName: Esqueleto
+  prefab: {fileID: 2397076784807365822, guid: f62c87d6ddede694c963bb17fb4f7b38, type: 3}
+  maxHp: 30
+  moveSpeed: 4.5
+  contactDamage: 10
+  knockbackResistance: 1
+  xpDropAmount: 12
+  isFlying: 0
+  spawnHeightOffset: 4

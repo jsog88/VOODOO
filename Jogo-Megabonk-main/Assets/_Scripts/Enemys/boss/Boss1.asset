@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 10315df30bbb6694993acb204f8dee69, type: 3}
+  m_Name: Boss1
+  m_EditorClassIdentifier: Assembly-CSharp::EnemyData
+  enemyName: CAJOCHA
+  prefab: {fileID: 7677646347381700306, guid: 3b5d8e59e991bbd4e814b4800645babf, type: 3}
+  maxHp: 1500
+  moveSpeed: 4.5
+  contactDamage: 25
+  knockbackResistance: 15
+  xpDropAmount: 10
+  isFlying: 0
+  spawnHeightOffset: 4
+  isBoss: 1
+  bossGemPrefab: {fileID: 8556616789741144325, guid: fbfbf81c623ec0449b6c71e16b75cab6, type: 3}

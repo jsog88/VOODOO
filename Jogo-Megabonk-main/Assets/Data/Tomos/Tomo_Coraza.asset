@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e0ab11290cd82a541a52c663583c4e75, type: 3}
+  m_Name: Tomo_Coraza
+  m_EditorClassIdentifier: Assembly-CSharp::UpgradeData
+  title: Tomo de Coraza
+  description: "Aumenta tu armadura para mitigar el da\xF1o recibido."
+  icon: {fileID: 3818498849392290865, guid: 55bd0c302b8a49443af7513aeeee7114, type: 3}
+  category: 1
+  weaponData: {fileID: 0}
+  statType: 9
+  baseStatValue: 12

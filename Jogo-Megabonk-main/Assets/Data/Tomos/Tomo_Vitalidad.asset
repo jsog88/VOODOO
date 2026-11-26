@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e0ab11290cd82a541a52c663583c4e75, type: 3}
+  m_Name: Tomo_Vitalidad
+  m_EditorClassIdentifier: Assembly-CSharp::UpgradeData
+  title: Tomo de Vitalidad
+  description: "Aumenta tu vida m\xE1xima y te cura al instante."
+  icon: {fileID: 1758494913391149776, guid: dd888b993fe20c548ad335cbb8ee5b0c, type: 3}
+  category: 1
+  weaponData: {fileID: 0}
+  statType: 7
+  baseStatValue: 25
